@@ -5,20 +5,8 @@ body {
   color: #333;
 }
 
-header {
-  background-color: #005a8b; /* placeholder color, replace with logo color */
-  padding: 10px 20px;
-}
-
-header nav a {
-  color: white;
-  text-decoration: none;
-  margin-right: 15px;
-  font-weight: bold;
-}
-
-header nav a:hover {
-  text-decoration: underline;
+:root {
+  --bs-primary: #005a8b; /* placeholder color, replace with logo color */
 }
 
 .main {
